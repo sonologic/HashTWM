@@ -18,3 +18,5 @@ build/
 *.opensdf
 *.obj
 *.filters
+hashtwm.exe
+bin/hashtwm.exe
